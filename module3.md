@@ -75,7 +75,7 @@ Repeat the statements n number of times
 
 ### While
 
-![Alt text](image.png)
+![Alt text](./image.png)
 
 ```kotlin
     var count = 1
