@@ -125,7 +125,9 @@ Repeat the statements n number of times
 
 ```
 
----
+Watch First part
+
+## https://www.youtube.com/watch?v=1-LLZEGDOIc
 
 ## Operators
 
@@ -334,7 +336,7 @@ len=45
 
 ### Lambda
 
-Kotlin functions are the first class which means they can be stored in variables , passed as an argument , retured from another functions .
+Kotlin functions are the first class which means they can be stored in variables , passed as an argument , returned from another functions .
 
 The function that takes another function as parameter or return another function is called Higher order functions.
 
@@ -347,3 +349,5 @@ fun highOrder(value: () -> Unit, intValue: Int): () -> Unit {
 }
 
 ```
+
+### Varargs
