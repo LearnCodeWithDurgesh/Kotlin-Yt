@@ -25,7 +25,7 @@ fun main() {
 
 //how to create class
 
-class Student(var name: String,var id: Int,var about: String,) //class header
+class Student(var name: String, var id: Int, var about: String) //class header
 {
     init {
         println("Creating object with $name , $id, $about")
